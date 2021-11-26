@@ -1,1 +1,12 @@
 # SQL-Supply_Chain_Case_Study
+- The main purpose of this case study is to demonstrate the Structured Problem Approach used in SQL.
+- The issue tree framework has been used to structure the problems and then analyse the data in an easy-going approach.
+- The below approach has been followed:
+      - Breaking down the problem to smaller chunks by using an issue tree
+      - Solving the minor problems with a step-by-step algorithm approach
+      - Identifying the tables that are required
+      - Understanding the type of data that they contain and their link (relationships - PK and FK) to the other tables
+      - Determining the type of operation to perform (use of right functions or keywords)
+      - Writing a query to solve the problem
+      - Stitching the smaller solutions to solve the overall problem
+- For the detailed analysis, download the SQL script file
